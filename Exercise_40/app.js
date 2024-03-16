@@ -1,7 +1,7 @@
-"use strict";
 // Exercise :40
 // Album:
 
+"use strict";
 function make_album(artist, title, num_tracks) {
     return {
         artist: artist,

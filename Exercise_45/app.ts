@@ -1,4 +1,4 @@
-//EXercise 45:
+//Exercise 45:
 // Cars: 
 
 function car(manufacturer: string, model: string,...args: any) {
